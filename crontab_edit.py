@@ -1,6 +1,8 @@
 '''
 Created on Apr 28, 2012
 
+python script for editing crontab files
+
 @author: Alexandru Adam
 '''
 import os
